@@ -4,6 +4,3 @@ gh issue create --title "your title" --body "content"
 <img src="https://github.com/stephanie0404.png" width="100px;" alt=""/>
 <br /><sub><b>stephanie0404</b></sub>
 </a>
-
-git add .
-git commit -m "Add short bio and profile picture"
