@@ -1,1 +1,5 @@
 # Stephanie_Fu_project
+<a href="https://github.com/stephanie0404">
+<img src="https://github.com/stephanie0404.png" width="100px;" alt=""/>
+<br /><sub><b>stephanie0404</b></sub>
+</a>
